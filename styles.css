@@ -1,0 +1,10 @@
+  table thead{
+    background-color: lightblue;        
+}
+td.details-control {
+  background: url('./img/anadir.png') no-repeat center center;
+  cursor: pointer;
+}
+tr.details td.details-control {
+  background: url('./img/menos.png') no-repeat center center;
+}
